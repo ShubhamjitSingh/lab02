@@ -5,6 +5,7 @@
   "main": "example-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon example-node.js",
     "start": "nodemon examplr-node.js"
   },
   "repository": {
